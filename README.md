@@ -5,10 +5,10 @@ Clone and then fork this repo and then answer the questions below. Afterwards su
 These will be PRIVATE repos so only you and I as course organiser can see what you put into this repo.
 
 ## Over the summer I want to ... 
-What's your goal for this course?
+Develop a polished piece of software as part of a well-organised team. 
 
-## A big problem with group projects is ...
-What do you worry about with group projects?
+## A big problem with group projects can be ...
+Poor communication between team members which results in conflicts of interest and consequently delayed completion times for scheduled activities.
 
 ## The best part of group projects is ...
-What do you see when it goes well?
+Being able to work closely in a team and combine everyone's expertise to build the best possible product.
