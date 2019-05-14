@@ -5,10 +5,10 @@ Clone and then fork this repo and then answer the questions below. Afterwards su
 These will be PRIVATE repos so only you and I as course organiser can see what you put into this repo.
 
 ## Over the summer I want to ... 
-What's your goal for this course?
+Work on this summer project, so to explore my limts in a teamwork project. Besides, I want to understand how to implement some research algorithms on Ruby of Rails
 
 ## A big problem with group projects is ...
-What do you worry about with group projects?
+To abandon our comfort zone and embrace change 
 
 ## The best part of group projects is ...
-What do you see when it goes well?
+To learn something more about the people that are involved with you. 
